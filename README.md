@@ -233,7 +233,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 🙋‍♂️ Author
 
-**Your Name**
+**Soumendra Barick**
 - GitHub: https://github.com/Soumendra-Barick/Fruits-Classification-using-CNN
 - Hugging Face: https://huggingface.co/soumendrabarick/fruits-classification-cnn/resolve/main/fruits_classification_model.keras
 
